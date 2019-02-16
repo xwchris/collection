@@ -1,4 +1,5 @@
 ![last commit](https://img.shields.io/github/last-commit/xwchris/collection.svg?style=flat)
+![xwchris](https://img.shields.io/maintenance/xwchris/2019.svg?style=flat)
 
 # Collection
 
