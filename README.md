@@ -6,7 +6,7 @@
 
 持续更新中...
 
-## :fire: Articles
+## 🔥 Articles
 - [浏览器的工作原理：新式网络浏览器幕后揭秘](https://www.html5rocks.com/zh/tutorials/internals/howbrowserswork/#disqus_thread)（阐述了webkit浏览器的文章渲染，解析和绘制过程）
 - [使用原理视角看Git](https://coding.net/help/doc/practice/git-principle.html)（阐述了Git的基本原理结合部分命令进行说明）
 - [正则表达式](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Guide/Regular_Expressions)（正则表达式基本用法文档）
@@ -38,8 +38,9 @@
 - [TransferFonter](https://transfonter.org/)（进行字体转化和分解）
 - [CSS Snapshot 2017](https://www.w3.org/TR/CSS/#css)（W3C CSS规范）
 - [Regulex](https://jex.im/regulex)（可视化正则语法）
+- [Emoji Homepage](http://emojihomepage.com/)（emoji搜索）
 
-## :rocket: Blogs
+## 🚀 Blogs
 - [Javascrip Scene](https://medium.com/javascript-scene)（Javascript相关文章）
 - [kennethreitz](https://www.kennethreitz.org)（一个很厉害的大神的博客）
 - [Front-End Front](https://frontendfront.com/)（前端新闻）
