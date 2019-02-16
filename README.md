@@ -23,7 +23,7 @@
 - [这么多前端优化点你都记得住吗](https://github.com/zwwill/blog/issues/1)（前端优化方面的要点）
 - [Presentational and Container Components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0)（React展示组件和容器组件）
 - [Redux middleware](https://redux.js.org/advanced/middleware)（虽说这是Redux的官方文档，但是对中间件这里讲的很清楚，也很有意思）
-
+- [JavaScript. The Core.](http://dmitrysoshnikov.com/ecmascript/javascript-the-core/)（目前看过的最通俗易懂的讲解javascript核心的文章，看完感觉豁然开朗）
 
 ## Tools
 - [Linux命令查询](http://linux.51yip.com/)（查询Linux基本命令用法很方便）
