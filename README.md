@@ -6,7 +6,7 @@
 
 持续更新中...
 
-## :article:Articles
+## :fire:Articles
 - [浏览器的工作原理：新式网络浏览器幕后揭秘](https://www.html5rocks.com/zh/tutorials/internals/howbrowserswork/#disqus_thread)（阐述了webkit浏览器的文章渲染，解析和绘制过程）
 - [使用原理视角看Git](https://coding.net/help/doc/practice/git-principle.html)（阐述了Git的基本原理结合部分命令进行说明）
 - [正则表达式](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Guide/Regular_Expressions)（正则表达式基本用法文档）
@@ -33,13 +33,13 @@
 - [Redux middleware](https://redux.js.org/advanced/middleware)（虽说这是Redux的官方文档，但是对中间件这里讲的很清楚，也很有意思）
 - [JavaScript. The Core.](http://dmitrysoshnikov.com/ecmascript/javascript-the-core/)（目前看过的最通俗易懂的讲解javascript核心的文章，看完感觉豁然开朗）
 
-## :tool:Tools
+## :wrench:Tools
 - [Linux命令查询](http://linux.51yip.com/)（查询Linux基本命令用法很方便）
 - [TransferFonter](https://transfonter.org/)（进行字体转化和分解）
 - [CSS Snapshot 2017](https://www.w3.org/TR/CSS/#css)（W3C CSS规范）
 - [Regulex](https://jex.im/regulex)（可视化正则语法）
 
-## :blog:Blogs
+## :rocket:Blogs
 - [Javascrip Scene](https://medium.com/javascript-scene)（Javascript相关文章）
 - [kennethreitz](https://www.kennethreitz.org)（一个很厉害的大神的博客）
 - [Front-End Front](https://frontendfront.com/)（前端新闻）
