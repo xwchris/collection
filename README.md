@@ -1,5 +1,7 @@
 作为技术人员，可能会读很多技术类的文章。那些真正好的文章看完真的是能让人豁然开朗。
+
 因此该项目用来记录，平时读到的比较好的文章，以及一些好用的工具。
+
 持续更新中...
 
 ## Articles
@@ -16,7 +18,7 @@
 - [webpack 构建性能优化策略小结](https://segmentfault.com/a/1190000007891318)（webpack 3性能优化详解）
 - [underscore-analysis](https://github.com/hanzichi/underscore-analysis/blob/master/underscore-1.8.3.js/underscore-1.8.3-analysis.js)（underscore源码分析）
 - [深入理解 CSS：字体度量、line-height 和 vertical-align](https://zhuanlan.zhihu.com/p/25808995)（深入理解字体相关知识）
-- [JavaScript Promise：简介](https://developers.google.com/web/fundamentals/primers/promises?hl=zh-cn)（最佳Javascript入门和实战练习）
+- [JavaScript Promise：简介](https://developers.google.com/web/fundamentals/primers/promises?hl=zh-cn)（最佳Promise入门和实战练习）
 - [优化图片](https://developers.google.com/speed/docs/insights/OptimizeImages)（Google优化图片，简单的介绍）
 - [Fighting the Space Between Inline Block Elements](https://css-tricks.com/fighting-the-space-between-inline-block-elements/)（干掉inline-block间隙的几种方法）
 - [如何单步调试代码](https://developers.google.com/web/tools/chrome-devtools/javascript/step-code)（chrome代码调试指南）
