@@ -1,3 +1,5 @@
+https://img.shields.io/github/last-commit/xwchris/collection.svg?style=flat
+
 # Collection
 
 作为技术人员，可能会读很多技术类的文章。那些真正好的文章看完真的是能让人豁然开朗。
