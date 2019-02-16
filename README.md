@@ -1,4 +1,4 @@
-https://img.shields.io/github/last-commit/xwchris/collection.svg?style=flat
+![last commit](https://img.shields.io/github/last-commit/xwchris/collection.svg?style=flat)
 
 # Collection
 
