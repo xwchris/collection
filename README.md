@@ -13,6 +13,7 @@
 持续更新中...
 
 ## 🔥 Articles
+- [React Implementation Notes](https://reactjs.org/docs/implementation-notes.html)(一步步引导理解React Diff实现，通俗易懂)
 - [浏览器的工作原理：新式网络浏览器幕后揭秘](https://www.html5rocks.com/zh/tutorials/internals/howbrowserswork)（阐述了webkit浏览器的文章渲染，解析和绘制过程）
 - [使用原理视角看Git](https://coding.net/help/doc/practice/git-principle.html)（阐述了Git的基本原理结合部分命令进行说明）
 - [正则表达式](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Guide/Regular_Expressions)（正则表达式基本用法文档）
