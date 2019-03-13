@@ -53,3 +53,4 @@
 - [Front-End Front](https://frontendfront.com/)（前端新闻）
 - [UFLDL教程](http://ufldl.stanford.edu/wiki/index.php/UFLDL%E6%95%99%E7%A8%8B)（机器学习，系列文章）
 - [Kyle Simpson Tutorials](https://davidwalsh.name/author/kylesimpson)（又一个大神的博客）
+- [Dan Abramov's Blog](https://overreacted.io/)（React核心团队成员Dan的博客）
