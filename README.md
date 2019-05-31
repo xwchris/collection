@@ -2,17 +2,15 @@
 ![xwchris](https://img.shields.io/maintenance/xwchris/2019.svg?style=flat)
 ![issues](https://img.shields.io/github/issues/xwchris/collection.svg?style=flat)
 
-# Collection
+## 2019.05.27-2019.06.02
 
-作为技术人员，可能会读很多技术类的文章。那些真正好的文章看完真的是能让人豁然开朗。
+- 【repo】[dsa.js常见数据结构的实现](https://github.com/amejiarosario/dsa.js)
+- 【tool】[web.dev是Google出品的站点优化指南](https://web.dev)
+- 【article】[Throttling和Debouncing在React中应用](https://blog.bitsrc.io/improve-your-react-app-performance-by-using-throttling-and-debouncing-101afbe9055?gi=6b84e0ea3df0)
 
-为了更好的学习。故使用该项目用来记录那些，平时读到的比较好的文章，以及一些好用的工具和优质博客。
+## Old
 
-如果你有对你帮助很大的文章，欢迎提issue，共同成长。
-
-持续更新中...
-
-## 🔥 Articles
+### 🔥 Articles
 - [React Implementation Notes](https://reactjs.org/docs/implementation-notes.html)(一步步引导理解React Diff实现，通俗易懂)
 - [浏览器的工作原理：新式网络浏览器幕后揭秘](https://www.html5rocks.com/zh/tutorials/internals/howbrowserswork)（阐述了webkit浏览器的文章渲染，解析和绘制过程）
 - [使用原理视角看Git](https://coding.net/help/doc/practice/git-principle.html)（阐述了Git的基本原理结合部分命令进行说明）
@@ -41,14 +39,14 @@
 - [JavaScript. The Core.](http://dmitrysoshnikov.com/ecmascript/javascript-the-core/)（目前看过的最通俗易懂的讲解javascript核心的文章，看完感觉豁然开朗）
 - [http://www.ecma-international.org/ecma-262/6.0/#sec-typedarray-objects](ecma 2015 Language Specification)
 
-## 🛠 Tools
+### 🛠 Tools
 - [Linux命令查询](http://linux.51yip.com/)（查询Linux基本命令用法很方便）
 - [TransferFonter](https://transfonter.org/)（进行字体转化和分解）
 - [CSS Snapshot 2017](https://www.w3.org/TR/CSS/#css)（W3C CSS规范）
 - [Regulex](https://jex.im/regulex)（可视化正则语法）
 - [Emoji Homepage](http://emojihomepage.com/)（emoji搜索）
 
-## 🚀 Blogs
+### 🚀 Blogs
 - [Javascrip Scene](https://medium.com/javascript-scene)（Javascript相关文章）
 - [kennethreitz](https://www.kennethreitz.org)（一个很厉害的大神的博客）
 - [Front-End Front](https://frontendfront.com/)（前端新闻）
